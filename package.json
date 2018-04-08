@@ -1,0 +1,28 @@
+{
+  "name": "active-users",
+  "version": "0.1.0",
+  "description": "Simple express.js server counting number of active concurrent users across multiple websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlhannes/active-users.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlhannes/active-users.js/issues"
+  },
+  "homepage": "https://github.com/carlhannes/active-users.js#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-ws": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
+}
