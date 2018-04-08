@@ -1,4 +1,4 @@
-const wsURL = 'ws://localhost:3000/global';
+const wsURL = 'ws://kayak.xno.se/global';
 
 const ws = new WebSocket(wsURL);
 
