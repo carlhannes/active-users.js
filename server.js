@@ -84,4 +84,4 @@ app.get('/client.js', (req, res) => {
   });
 });
 
-app.listen(80, () => console.log('Server up & running'));
+app.listen(3000, () => console.log('Server up & running'));
